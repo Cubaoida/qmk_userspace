@@ -1,0 +1,4 @@
+#pragma once
+
+#define DEBOUNCE 16
+#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX
