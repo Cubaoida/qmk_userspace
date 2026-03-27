@@ -1,7 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["keychron/q0/plus", "archie"],
-        ["monsgeek/m1", "archie"]
+        ["keychron/q12/ansi_encoder", "archie"]
     ]
 }
