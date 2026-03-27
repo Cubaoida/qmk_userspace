@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["keychron/q12/ansi_encoder", "archie"]
+        ["keychron/q12/ansi_encoder", "linux"]
     ]
 }
